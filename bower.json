@@ -1,0 +1,27 @@
+{
+  "name": "TextPresenter",
+  "version": "0.0.1",
+	"main": "source/textPresenter.js",
+    "ignore": [
+      "source",
+      "spec",
+      ".bowerrc",
+      ".gitignore",
+      ".jshintignore",
+      ".jshintrc",
+      "bower.json",
+      "gruntfile.js",
+      "package.json",
+      "README.md",
+      "*.sln"
+    ],
+    "dependencies": {
+      "jquery": ">=1.10.2",
+      "textillate": "0.4.0",
+      "requirejs": "2.1.18"
+    },
+    "devDependencies": {
+      "jquery-mockjax": "~1.5.2"
+    }
+
+}

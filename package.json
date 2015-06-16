@@ -1,0 +1,8 @@
+{
+  "name": "textPresenter",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt-bower-requirejs": "2.0.0",
+    "grunt-bower-task": "0.4.0"
+  }
+}
